@@ -10,7 +10,12 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=Scss&logoColor=white" />
+	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
+</div>
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />	
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
 <!--
 **Seoyoung-Mun/Seoyoung-Mun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
