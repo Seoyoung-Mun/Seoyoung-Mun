@@ -25,6 +25,10 @@
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 </div>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seoyoung-Mun&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Seoyoung-Mun&show_icons=true">
 <!--
 **Seoyoung-Mun/Seoyoung-Mun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
