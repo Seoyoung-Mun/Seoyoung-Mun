@@ -29,13 +29,15 @@
 </div>
 <br><br>
 <div align="center">
-	<p>Tech Stack</p>
+	<p>Top Languages</p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seoyoung-Mun&layout=compact"><br><br>
 </div>
 <div align="center">
-	<p>Tech Stack</p>
+	<p>Github Stats</p>
 	<img src="https://github-readme-stats.vercel.app/api?username=Seoyoung-Mun&show_icons=true">
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
 **Seoyoung-Mun/Seoyoung-Mun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
