@@ -26,8 +26,8 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
-</div>
-<br><br>
+</div><br><br>
+
 <div align="center">
 	<p>Top Languages</p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seoyoung-Mun&layout=compact"><br><br>
@@ -35,9 +35,11 @@
 <div align="center">
 	<p>Github Stats</p>
 	<img src="https://github-readme-stats.vercel.app/api?username=Seoyoung-Mun&show_icons=true">
-</div>
+</div><br><br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+<div align="center">
+	![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+</div>
 <!--
 **Seoyoung-Mun/Seoyoung-Mun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
