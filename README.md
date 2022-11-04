@@ -2,8 +2,10 @@
 
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seoyoung&fontSize=90" />
-</div>
+</div><br><br>
+
 <div align="center">
+	<p>Tech Stack</p>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -25,10 +27,15 @@
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 </div>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seoyoung-Mun&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Seoyoung-Mun&show_icons=true">
+<br><br>
+<div align="center">
+	<p>Tech Stack</p>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seoyoung-Mun&layout=compact"><br><br>
+</div>
+<div align="center">
+	<p>Tech Stack</p>
+	<img src="https://github-readme-stats.vercel.app/api?username=Seoyoung-Mun&show_icons=true">
+</div>
 <!--
 **Seoyoung-Mun/Seoyoung-Mun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
