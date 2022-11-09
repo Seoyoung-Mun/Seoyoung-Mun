@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seoyoung&fontSize=90" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=faeff5&height=200&section=header&text=Seoyoung&fontSize=90" />
 </div><br><br>
 
 <div align="center">
@@ -38,7 +38,7 @@
 </div><br><br>
 
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=faeff5&height=200&section=footer" />
 </div>
 <!--
 **Seoyoung-Mun/Seoyoung-Mun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
