@@ -20,12 +20,10 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/{뱃지이름}-{뱃지색깔}?style=flat-square&logo={로고이름}&logoColor=white"/>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/MSSQL-F5C518?style=flat-square&logo={로고이름}&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
